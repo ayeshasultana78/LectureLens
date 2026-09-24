@@ -1,0 +1,6 @@
+{
+  "name": "LectureLens - Whiteboard Teaching Assistant",
+  "description": "Expert Teaching Assistant for lecture & whiteboard analysis, featuring step-by-step formula breakdown, Working Set & Thrashing interactive simulations, and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
